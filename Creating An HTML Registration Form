@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>          
+      <title></title>
+</head>
+<body> 
+    
+</body>
+</html>
+<!DOCTYPE html>
+<html> <head> <h1> Company Registration Form</h1> 
+</head> 
+<body> 
+<form> 
+<table> <tr> <td> Email Address: </td> <td> <input type=”text” email=””> </td> </tr> <tr> <td> Password: </td> <td> <input type=”Password” name=””> </td> </tr> </table> 
+</form> 
+</body> 
+</html>
+<tr> <td> Email Address: </td> <td> <input type=”text” email=””> </td>
+<!DOCTYPE html>
+<html>
+<head>
+<h1> Company Registration Form</h1>
+</head>
+<body>
+<form>
+	<table>
+		<tr>
+			<td>
+				Email Address:
+			</td>
+
+			<td>
+				<input type=”mail”  placeholder=”Email” name=””>
+			</td>
+		</tr>
+<tr>
+<td>
+				Password:
+			</td>
+
+			<td>
+				<input type=”Password” placeholder=”Password” name=””>
+			</td>
+		</tr>
+	</table>
+</form> 
+</body>
+</html>
+<input type="checkbox" name="Male" value="Male"> Male<br> <input type="checkbox" name="Female" value="Female"> Female<br>
+table {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 100%;
+  font-weight: bold;
+  background-color: white
+}
+ h1 {
+   color: #ea503f;
+   font-family: Arial;
+   text-align: center
+ }
+ 
+ 
+ 💡 Tip: Some editors won’t autofill. That’s okay. Just copy and paste this code above and it will have the same effect.
+ Thanks Have a nice day.....
